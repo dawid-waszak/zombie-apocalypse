@@ -48,7 +48,13 @@ Grę zrobiłem samodzielnie razem z modelami, które stowrzyłem w blenderze. D�
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Screenshoty
+## Sterowanie
+
+ * WASD - poruszanie się
+ * Myszka - obracanie i strzelanie
+ * 1 i 2 - zmiana broni (działa dopiero jak kupisz)
+ * Shift - sprint
+ * E - interakcja
 
 <!-- LICENSE -->
 ## License
