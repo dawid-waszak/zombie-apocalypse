@@ -31,13 +31,13 @@
     <a href="https://dawid-waszak.github.io/#projects">View Demo</a>
   </p>
 
-  <img src="/images/Zombie-1.png" width="20rem" height="auto" alt="">
+  <img src="/images/Zombie-1.png" alt="">
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## O Projekcie
 
-[![Game Screen Shot][game-screenshot]]
+![Game Screen Shot][game-screenshot-2]
 
 Pomysł na ten projekt miałem, kiedy chciałem wziąć udział w <i>Game Jamie</i>. Byłem wtedy nastolatkiem i trochę już pracowałem w Unity, natomiast nie mogłem nigdy się zabrać za dokończenie jakiegoś projektu.
 
