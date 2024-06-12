@@ -45,8 +45,6 @@ Dlatego czekałem na kolejną edycję <i>Game Jama</i>, żeby zobaczyć jaki jes
 
 Grę zrobiłem samodzielnie razem z modelami, które stowrzyłem w blenderze. Dźwięki użyłem z darmowych stron. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Sterowanie
 
@@ -61,14 +59,10 @@ Grę zrobiłem samodzielnie razem z modelami, które stowrzyłem w blenderze. D�
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
 Dawid Waszak - https://dawid-waszak.github.io
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
