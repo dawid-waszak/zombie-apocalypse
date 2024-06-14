@@ -29,6 +29,7 @@
   </p>
 
   <img src="/images/Zombie-1.png" alt="">
+  <a href="https://dewo21.itch.io/zombie-apocalypse" target="_blank">Check out this game!</a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
