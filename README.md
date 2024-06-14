@@ -25,34 +25,49 @@
   <h3 align="center">Zombie Apocalypse [Unity 3d Game]</h3>
 
   <p align="center">
-    Gra, w której walczysz z hordami zombie. Pokonuj kolejnych przeciwników i kupuj coraz lepsze wyposażenie. Jak długo uda Ci się przetrwać apokalipsę?
-    <br />
-    <br />
-    <a href="https://dawid-waszak.github.io/#projects">View Demo</a>
+    In this game you are fighting with the hordes of zombie. You have to defeat more and more enemies to get better weapons. How long will you survive?
   </p>
 
   <img src="/images/Zombie-1.png" alt="">
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## O Projekcie
+## About the project
 
 ![Game Screen Shot][game-screenshot-2]
 
-Pomysł na ten projekt miałem, kiedy chciałem wziąć udział w <i>Game Jamie</i>. Byłem wtedy nastolatkiem i trochę już pracowałem w Unity, natomiast nie mogłem nigdy się zabrać za dokończenie jakiegoś projektu.
+I have created this game when I was younger. At the beggining I wanted to participate in some Game Jam, to finally create fully playable game. All in all this game did not take part in the event, but finished my project in few days.
 
-Dlatego czekałem na kolejną edycję <i>Game Jama</i>, żeby zobaczyć jaki jest temat. Co prawda tematem było coś związanego ze świętami, a ja pomyślałem, że przecież Zombie też w święta mogą zaatakować :D.
+Every model was created by me in Blender. <br/><br/>
 
-Grę zrobiłem samodzielnie razem z modelami, które stowrzyłem w blenderze. Dźwięki użyłem z darmowych stron. 
+There are 4 types of enemies: 
+ * normal
+ * fast,
+ * big,
+ * and fat zombie
+
+And 8 types of weapons:
+ * default,
+ * revolver,
+ * shotgun normal,
+ * powerful shotgun,
+ * uzi,
+ * rifle,
+ * sniper,
+ * and grenade launcher
+
+In game are available also special buffs that drops from enemies some times:
+ * health buff - regenarate healthbar,
+ * speed buff - for 30s you did not lose stamina.
 
 <!-- GETTING STARTED -->
-## Sterowanie
+## Controls
 
- * WASD - poruszanie się
- * Myszka - obracanie i strzelanie
- * 1 i 2 - zmiana broni (działa dopiero jak kupisz)
- * Shift - sprint
- * E - interakcja
+ * WASD - moving,
+ * Mouse - rotation and shooting,
+ * 1 i 2 - weapon slots,
+ * Shift - sprint,
+ * E - interaction.
 
 <!-- LICENSE -->
 ## License
